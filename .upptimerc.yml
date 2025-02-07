@@ -23,7 +23,7 @@ status-website:
   baseUrl: /BF-API-UPPTIME
   logoUrl: https://www.bluefinsoftware.co.uk/wp-content/uploads/2014/01/logo.png
   name: Blue-Fin API Up-Time Monitor 
-  logoUrl: https://www.bluefinsoftware.co.uk/wp-content/uploads/2014/01/favicon.png
+  favicon: https://www.bluefinsoftware.co.uk/wp-content/uploads/2014/01/favicon.png
   introTitle: "Updates on all Blue-Fin APIs"
   introMessage: Click on each API for more detail
   navbar:
