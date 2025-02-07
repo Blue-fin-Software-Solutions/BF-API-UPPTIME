@@ -12,6 +12,9 @@ sites:
   - name: ITS Public API
     url: https://its-public-web-api-live.azurewebsites.net/swagger/index.html
     icon: https://www.industrytrainingservices.com/wp-content/uploads/2023/07/cropped-ITS-Logo-Main@1x-4.png
+  - name: Express EFDS API
+    url: https://webservices.expressfreight.co.uk:10821/swagger/index.html
+    icon: https://www.expressfreight.co.uk/imgs/logo.png
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
