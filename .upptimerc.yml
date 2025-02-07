@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://www.bluefinsoftware.co.uk/wp-content/uploads/2014/01/logo.png
   name: Blue-Fin API Up-Time Monitor 
   introTitle: "Updates on all Blue-Fin APIs"
-  introMessage: Click on each API for more detail on each APIs up time
+  introMessage: Click on each API for more detail
   navbar:
     - title: Status
       href: /
