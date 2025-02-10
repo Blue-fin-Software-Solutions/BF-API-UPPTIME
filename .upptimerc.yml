@@ -17,7 +17,8 @@ sites:
     icon: https://www.expressfreight.co.uk/imgs/logo.png
   - name: Test Broken Site 1
     url: https://thissitedoesnotexistbf.koj.co
-  
+  - name: Test Broken Site 2
+    url: https://thissitedoesnotexistbf1.koj.co
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
