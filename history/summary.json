@@ -40,19 +40,19 @@
     "url": "https://its-public-web-api-live.azurewebsites.net/swagger/index.html",
     "icon": "https://www.industrytrainingservices.com/wp-content/uploads/2023/07/cropped-ITS-Logo-Main@1x-4.png",
     "slug": "its-public-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 550,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 513,
+    "timeDay": 563,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 3
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexistbf.koj.co.ico",
     "slug": "test-broken-site-1",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 39
+      "2025-02-10": 42
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 3
     }
   }
 ]
