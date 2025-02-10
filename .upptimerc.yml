@@ -15,8 +15,8 @@ sites:
   - name: Express EFDS API
     url: https://webservices.expressfreight.co.uk:10821/swagger/index.html
     icon: https://www.expressfreight.co.uk/imgs/logo.png
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Test Broken Site 1
+    url: https://thissitedoesnotexistbf.koj.co
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
