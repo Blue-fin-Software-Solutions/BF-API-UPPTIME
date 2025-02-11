@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 503,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "time": 488,
+    "timeDay": 462,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 560,
-    "timeWeek": 821,
-    "timeMonth": 821,
-    "timeYear": 821,
+    "time": 798,
+    "timeDay": 521,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,20 @@
     "url": "https://its-public-web-api-live.azurewebsites.net/swagger/index.html",
     "icon": "https://www.industrytrainingservices.com/wp-content/uploads/2023/07/cropped-ITS-Logo-Main@1x-4.png",
     "slug": "its-public-api",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 511,
-    "timeDay": 545,
-    "timeWeek": 511,
-    "timeMonth": 511,
-    "timeYear": 511,
+    "status": "up",
+    "uptime": "91.55%",
+    "uptimeDay": "71.72%",
+    "uptimeWeek": "91.55%",
+    "uptimeMonth": "91.55%",
+    "uptimeYear": "91.55%",
+    "time": 1310,
+    "timeDay": 2463,
+    "timeWeek": 1310,
+    "timeMonth": 1310,
+    "timeYear": 1310,
     "dailyMinutesDown": {
-      "2025-02-10": 21
+      "2025-02-11": 0,
+      "2025-02-10": 407
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 488,
-    "timeWeek": 533,
-    "timeMonth": 533,
-    "timeYear": 533,
+    "time": 524,
+    "timeDay": 450,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {}
   }
 ]
