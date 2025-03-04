@@ -22,9 +22,9 @@
     "url": "https://its-tokenserviceapi.azurewebsites.net/.well-known/openid-configuration",
     "icon": "https://www.industrytrainingservices.com/wp-content/uploads/2023/07/cropped-ITS-Logo-Main@1x-4.png",
     "slug": "its-token-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 507,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "ITS Public API",
@@ -41,11 +43,11 @@
     "icon": "https://www.industrytrainingservices.com/wp-content/uploads/2023/07/cropped-ITS-Logo-Main@1x-4.png",
     "slug": "its-public-api",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "97.52%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "97.56%",
     "time": 1011,
     "timeDay": 632,
     "timeWeek": 1338,
