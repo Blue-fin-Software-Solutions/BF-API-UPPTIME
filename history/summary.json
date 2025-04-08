@@ -43,11 +43,11 @@
     "icon": "https://www.industrytrainingservices.com/wp-content/uploads/2023/07/cropped-ITS-Logo-Main@1x-4.png",
     "slug": "its-public-api",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 760,
     "timeDay": 489,
     "timeWeek": 525,
@@ -66,17 +66,19 @@
     "url": "https://webservices.expressfreight.co.uk:10821/swagger/index.html",
     "icon": "https://www.expressfreight.co.uk/imgs/logo.png",
     "slug": "express-efds-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 403,
-    "timeWeek": 436,
-    "timeMonth": 466,
-    "timeYear": 472,
-    "dailyMinutesDown": {}
+    "time": 474,
+    "timeDay": 520,
+    "timeWeek": 461,
+    "timeMonth": 471,
+    "timeYear": 474,
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   }
 ]
