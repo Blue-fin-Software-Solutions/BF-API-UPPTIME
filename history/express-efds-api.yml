@@ -1,7 +1,7 @@
 url: https://webservices.expressfreight.co.uk:10821/swagger/index.html
-status: down
-code: 503
-responseTime: 636
-lastUpdated: 2025-04-08T09:37:34.750Z
+status: up
+code: 200
+responseTime: 468
+lastUpdated: 2025-04-08T09:48:01.973Z
 startTime: 2025-02-07T15:51:22.466Z
 generator: Upptime <https://github.com/upptime/upptime>
