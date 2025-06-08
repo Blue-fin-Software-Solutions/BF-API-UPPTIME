@@ -1,7 +1,7 @@
 url: https://its-public-web-api-live.azurewebsites.net/swagger/index.html
-status: down
-code: 503
-responseTime: 1402
-lastUpdated: 2025-06-08T14:46:13.183Z
+status: up
+code: 200
+responseTime: 370
+lastUpdated: 2025-06-08T14:56:17.927Z
 startTime: 2025-02-07T15:39:37.223Z
 generator: Upptime <https://github.com/upptime/upptime>
