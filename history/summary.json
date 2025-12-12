@@ -67,9 +67,9 @@
     "url": "https://webservices.expressfreight.co.uk:10821/swagger/index.html",
     "icon": "https://www.expressfreight.co.uk/imgs/logo.png",
     "slug": "express-efds-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,6 +78,8 @@
     "timeWeek": 463,
     "timeMonth": 653,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 0
+    }
   }
 ]
